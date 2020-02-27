@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+
+    <!-- 如果不需要支持某平台，可缺省该平台的配置-->
+
+    <!--<SinaWeibo-->
+            <!--AppKey="新浪微博的 AppKey"-->
+            <!--AppSecret="新浪微博 AppSecret"-->
+            <!--RedirectUrl="微博开放平台填写的授权回调页"/>-->
+
+    <!--<QQ-->
+            <!--AppId="QQ 的 AppId"-->
+            <!--AppKey="QQ 的 AppKey"/>-->
+
+    <Wechat
+            AppId="wxf824c10085c2a364"
+            AppSecret="f4796dd9b2f63c0da172e585654dd90c"/>
+
+    <!--<Facebook-->
+            <!--AppId="facebook 的 appId"-->
+            <!--AppName="facebook 后台填写的名称"-->
+    <!--/>-->
+
+    <Twitter
+            ConsumerKey="lJzTuN1Z5VUo2XPA05LRrYvMj"
+            ConsumerSecret="wBxojvMd31HHSrbOofaoVd1ftdAFFwYSZgb3pMlxJ7F0OdlyPt"
+    />
+
+
+
+</DevInfor>
